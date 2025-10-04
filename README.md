@@ -19,16 +19,6 @@ Currently improving my skills in component-based design, performance optimizatio
 - [Instagram](https://instagram.com/itx.mursal.abbas)
 - [LinkedIn](https://linkedin.com/in/mursal-abbas)
 - [Portfolio](https://mursal-abbas.netlify.app)
-- [Tiktok](https://tiktok.com/@mursal_abbas_023)
-
----
-
-### 🎯 Outside the Code
-When I'm not coding, you'll probably find me:
-- 🏏 Playing cricket on weekends
-- 🏋️‍♂️ Training at the gym (consistency > hype)
-
-These keep me sharp and help me stay focused in my work too.
 
 ---
 
