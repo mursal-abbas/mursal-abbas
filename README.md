@@ -17,8 +17,8 @@ Currently improving my skills in component-based design, performance optimizatio
 
 - [Facebook](https://facebook.com/itz.mursal.abbas)
 - [Instagram](https://instagram.com/itz.mursal.abbas)
-- [LinkedIn](https://linkedin.com/in/mursal-abbas)
-- [Portfolio](https://mursal-abbas.netlify.app)
+- [LinkedIn](https://linkedin.com/in/mursal-abbas-8b5710369)
+- [Portfolio](https://mursal-abbas.github.io/mursal-abbas)
 
 ---
 
